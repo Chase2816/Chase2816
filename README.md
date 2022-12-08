@@ -2,6 +2,7 @@
 - 👀 I’m interested in CV/NLP.
 - 🌱 I’m currently learning C++ and video-recognition.
 - 💞️ I’m looking to collaborate on ...
+- csdn:https://blog.csdn.net/qq_43100178
 - 📫 How to reach me 18483666678@163.com
 
 <!---
