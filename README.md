@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chase2816
-- 👀 I’m interested in CV/NLP.
-- 🌱 I’m currently learning C++ and video-recognition.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CV/NLP/LLM
+- 🌱 I’m currently learning C++ deploy.
+- 💞️ I’m learning new knowledge ...
 - csdn:https://blog.csdn.net/qq_43100178
 - 📫 How to reach me 18483666678@163.com
 
